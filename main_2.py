@@ -191,8 +191,7 @@ class VurScraper():
         if self.detener:
             #sys.exit()  # Salir del programa inmediatamente
             return
-        #user= "GPINEDAC"
-        #password = "Martes16*"
+        
         user = self.usuario
         password = self.contrasena
         print("login")
