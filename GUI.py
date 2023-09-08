@@ -49,7 +49,7 @@ class Menu():
         self.contrasena = self.entry_password.get()
 
         # Verifica las credenciales (puedes personalizar esto)
-        if self.usuario == "GPINEDAC" and self.contrasena == "Martes16*":
+        if self.usuario == "*******" and self.contrasena == "******":
             # Si las credenciales son correctas, cierra la ventana de inicio de sesión y muestra la ventana principal
             self.inicio.destroy()
             self.mostrar_ventana_principal()
