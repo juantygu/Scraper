@@ -179,7 +179,7 @@ class VurScraper():
         service.creation_flags = CREATE_NO_WINDOW # VERIFICARRRRRR
         self.driver = webdriver.Chrome(service=service)
 
-        url = 'https://www.vur.gov.co/portal/pages/vur/inicio.jsf?url=%2Fportal%2FPantallasVUR%2F%23%2F%3Ftipo%3DestadoJuridicoTierras'
+        url = ''
         self.driver.get(url)
         self.driver.maximize_window()
 
