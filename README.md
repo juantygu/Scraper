@@ -6,12 +6,6 @@ User interface that executes a script that performs web scraping to a web page, 
 
 frameworks used in the project:
 
--Selenium
-- Request
-- Regex
--Pandas
--Numpy
--tkinter
--shutil
+-Selenium,Request,Regex,Pandas,Numpy,tkinter,shutil
 
 
