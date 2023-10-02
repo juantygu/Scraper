@@ -2,7 +2,15 @@
 web scraping with python ,selenium
 
 
-interfaz que ejecuta un codigo que hace web scraping  a una pagina web , ademas filtra informacion y entrega un reporte en un archivo .xlsx y csv con los datos requeridos.
+User interface that executes a script that performs web scraping to a web page, performs extraction and transformation of the data, then filters the collected data to make a report in a .xlsx and csv file with the required data.
+
+frameworks used in the project:
+-Selenium
+- Request
+- Regex
+-Pandas
+-Numpy
+-tkinter
+-shutil
 
 
-interface that executes a code that does web scraping to a web page, also filters information and delivers a report in a .xlsx and csv file with the required data.
